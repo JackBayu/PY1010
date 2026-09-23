@@ -8,6 +8,8 @@ Oppgåve: Årleg totalkostnadar for el-bil og for bensinbil, samt årleg kostnad
 Student: Jackson Bayubahe
 
 Forfall: 2026-09-01
+test git
+test 
 """
 
 #%% Data Elbil
