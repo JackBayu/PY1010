@@ -3,7 +3,7 @@
 """
 Arbeidskrav 1
 
-Oppgåve: Årleg totalkostnadar for el-bil og for bensinbil, samt årleg kostnadsdiferranseorsikring_elbilranse.
+Oppgåve: Årleg totalkostnadar for el-bil og for bensinbil, samt årleg kostnadsdiferranse.
 
 Student: Jackson Bayubahe
 
