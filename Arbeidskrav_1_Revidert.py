@@ -13,13 +13,13 @@ Forfall: 2026-09-01
 #%% Data Elbil
 forsikring_elbil = 5000  # (kr/år, forsikring el-bil)
 forbruk_elbil    = 0.2   # (kWh/kilometerstand, forbruk)
-strompris_elbil   = 2    # (kr/kWh, Straumpris)
+strompris_elbil  = 2    # (kr/kWh, Straumpris)
 bomavgift_elbil  = 0.1   # (kr/kilometerstand,  Bomavgift el-bil)
 
 #%% Data Bensinbil
 forsikring_bensinbil   = 7500  # (kr/år, forsikring bensinbil)
 forbruk_bensinbil      = 1     # (kr/kilometerstand, sats for bensin)
-bomavgift_bensinbil = 0.3      # (kr/kilometerstand, bomavgift bensinbil)
+bomavgift_bensinbil    = 0.3      # (kr/kilometerstand, bomavgift bensinbil)
 
 #%% Fellesdata
 kilometerstand           = 10000       # (kilometerstand/år, kilometerstand-stand)
